@@ -1,0 +1,18 @@
+Navigating the terminal
+
+ls : lists out everything
+pwd : says specific part 
+rm -rf (file name) : deletes the file/directory
+cd ../../ : goes backwards in file directory
+cd workspace/(dir)/(file) : goes forwards to file
+c9 (filename) runs file
+touch : creates the file
+
+conrol c to end
+
+mv (filename) (filename) [needs to be in the right file name] : renames file
+
+gem install bundle 
+bundle install
+
+shotgun -p $PORT -o $IP
